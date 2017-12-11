@@ -1,0 +1,10 @@
+com\adventure\Command.class
+com\adventure\Room.class
+com\adventure\Player.class
+com\adventure\CityMainGate.class
+com\adventure\Parser.class
+com\adventure\CitySideRoad.class
+com\adventure\CommandWords.class
+com\adventure\Game.class
+com\adventure\CityDeadEnd.class
+com\adventure\CityMainRoad.class
